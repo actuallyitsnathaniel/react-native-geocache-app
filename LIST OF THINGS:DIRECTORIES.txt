@@ -1,0 +1,10 @@
+- list geocache
+    - GET request
+- create a geocache item
+    - POST request
+- log a geocache being found
+    - PUT request
+
+- /api/geocache/list
+- /api/geocache
+- /api/geocache/log-find    
